@@ -9,7 +9,7 @@ export const en = sidebar({
       collapsable: true,
       prefix: "guide/",
       link: "guide/",
-      children: ["", "mod-list", "key-bind", "multi-play", "recommend"],
+      children: ["", "key-bind", "multi-play", "recommend"],
     },
   ],
 });
