@@ -1,5 +1,5 @@
 ---
-title: Key Bind
+title: 键位绑定
 tags: info
 category: info
 icon: keyboard
@@ -7,20 +7,20 @@ icon: keyboard
 
 ## HUD
 
-- KronHUD --- ++right-shift++ to configrate HUD (FPS, TPS, Key, Armor, Effect, Bossbar, Actionbar etc.)
+- KronHUD --- `右Shift` 来配置 HUD(FPS, TPS, Key, Armor, Effect, Bossbar, Actionbar etc.)
 
-- Jade --- ++num0++ to open configration GUI.
+- Jade --- `小键盘 0` 来打开配置界面。
 
-- BetterBlockOutline --- ++b++ to edit block line and info hover.
+- BetterBlockOutline --- `B` 来编辑方块边框和信息悬浮显示。
 
 ## Tool
 
-- StepUP --- ++j++ to toogle auto jump.(Disable it If your server block it.)
+- StepUP --- `J` 来切换自动跳跃。(服务器不支持需关闭)
 
-- AntiGhost --- ++g++ to sync server.
+- AntiGhost --- `G` 来同步服务器方块。
 
-- Chest Tracker --- ++u++ to open GUI.
+- Chest Tracker --- `U` 来打开界面。
 
-- okZommer --- ++c+scroll++ to switch.
+- okZommer --- `C + Scroll` 来切换缩放倍率。
 
-- FabricShot --- ++f9++ to take a large screenshot.
+- FabricShot --- `F9` 来截2k图。

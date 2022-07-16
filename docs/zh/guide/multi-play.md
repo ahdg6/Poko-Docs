@@ -1,17 +1,16 @@
 ---
-title: Multiplay
+title: 多人游戏须知
 tags: info
 category: info
 icon: community
 ---
 
-# Multiplay
 ## [Step-up](https://rewrite.modrinth.com/mod/stepup)
-The mod is client side and should work with vanilla servers as well, except if the server has some code to prevent the mod from working. Because of this, the mod saves its configuration per server, so you can turn it on wherever it works without hampering servers where it doesn't.
+该 mod 允许您流畅的自动跳跃，但行为会被服务器反作弊视为作弊。
 
-Modes can be switched using the ++j++ key at any time; the key can be changed in options as usual.
+若出现兼容性问题，请随时按 `J` 来切换，该配置按服务器存储。
 
 ## [Inspecio](https://modrinth.com/mod/inspecio)
-In some use cases, tooltips take much more space that make no senses.
+在某些用例中，信息过多会占用大量空间造成不良体验。
 
-You can use the command `/inspecio config` to manage configuration.
+您可以通过命令 `/inspecio config` 来管理配置。
