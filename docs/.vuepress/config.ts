@@ -38,14 +38,6 @@ export default defineUserConfig({
             category: '分类',
           }
         },
-        '/br/': {
-          fullText: true,
-          placeholder: 'search',
-          frontmatter: {
-            tag: 'tag',
-            category: 'category',
-          }
-        }
       },
     }),
   ]],
