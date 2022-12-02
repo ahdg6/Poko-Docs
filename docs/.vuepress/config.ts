@@ -1,6 +1,6 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme";
-import pluginFullTextSearch from "vuepress2-plugin-full-text-search";
+import { nextSearchPlugin } from "vuepress-plugin-next-search";
 
 export default defineUserConfig({
   base: "/",
@@ -19,7 +19,35 @@ export default defineUserConfig({
     },
   },
 
-  plugins: [[ pluginFullTextSearch, ]],
-
+  plugins: [[
+    nextSearchPlugin({
+      locales: {
+        '/': {
+          fullText: true,
+          placeholder: 'search',
+          frontmatter: {
+            tag: 'tag',
+            category: 'category',
+          }
+        },
+        '/zh/': {
+          fullText: true,
+          placeholder: '搜索',
+          frontmatter: {
+            tag: '标签',
+            category: '分类',
+          }
+        },
+        '/br/': {
+          fullText: true,
+          placeholder: 'search',
+          frontmatter: {
+            tag: 'tag',
+            category: 'category',
+          }
+        }
+      },
+    }),
+  ]],
   theme,
 });

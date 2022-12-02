@@ -20,6 +20,7 @@ If you don't need OptiFine Shaders, please check their awesome shaderpacks!**
 | ------------------------------ | ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
 | ⚠️✨C2ME                        | [c2me-fabric](https://modrinth.com/mod/c2me-fabric)                     | Improve the chunk performance                                                                                               |
 | Cull Leaves                    | [cull-leaves](https://modrinth.com/mod/cull-leaves)                     | Optimize leaves' render                                                                                                     |
+| Cull Clouds                    | [cull-clouds](https://modrinth.com/mod/cullclouds)                     | Optimize clouds' render                                                                                                     |
 | Enhanced Block Entities        | [ebe](https://modrinth.com/mod/ebe)                                     | Optimize block / entities                                                                                                   |
 | EntityCulling                  | [entityculling](https://modrinth.com/mod/entityculling)                 | Using async path-tracing to hide Tiles/Entities that are not visible                                                        |
 | ✨FerriteCore                   | [ferrite-core](https://modrinth.com/mod/ferrite-core)                   | Reduce momery usage                                                                                                         |
@@ -33,6 +34,10 @@ If you don't need OptiFine Shaders, please check their awesome shaderpacks!**
 | [📦Ⅰ-1] Reese's Sodium Options | [reeses-sodium-options](https://modrinth.com/mod/reeses-sodium-options) | Alternative Options Menu for Sodium                                                                                         |
 | ⚠️✨Starlight                   | [starlight](https://modrinth.com/mod/starlight)                         | Rewrites the light engine to fix lighting performance and lighting errors.                                                  |
 | ⚠️Very Many Player             | [vmp-fabric](https://modrinth.com/mod/vmp-fabric)                       | Improve server performance at high playercounts.                                                                            |
+| fastload                       | [fastload](https://modrinth.com/mod/fastload)                           | Modifies the 441 Loading Engine to decrease world loading times.                                                            |
+| FeyTweaks                       | [feytweaks](https://modrinth.com/mod/feytweaks)                           | Mod for optimizing signs and beacons.                                                             |
+| Client Side Noteblocks                       | [clientsidenoteblocks](https://modrinth.com/mod/clientsidenoteblocks)                           | Removes lag when playing noteblocks                                                             |
+| Audio Engine Tweaks                       | [audio-engine-tweaks](https://modrinth.com/mod/audio-engine-tweaks)                           | this mod changes how Minecraft schedules sounds in order to prevent the sound pool to fill up                                                             |
 
 ### 🛠️ Fix
 
@@ -43,7 +48,7 @@ If you don't need OptiFine Shaders, please check their awesome shaderpacks!**
 | ❓TieFix         | [tiefix](https://modrinth.com/mod/tiefix)                                     | Fixes some annoying bugs in the Minecraft client                                 |
 | [📦Ⅰ-2] Indium  | [indium](https://modrinth.com/mod/indium)                                     | Sodium addon providing support for the Fabric Rendering API                      |
 | Memory Leak Fix | [memoryleakfix](https://modrinth.com/mod/memoryleakfix)                       | A mod that fixes random memory leaks for both the client and server              |
-| Item Model Fix  | [item-model-fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) | Removes the annoying gap in Item Models!                                         |
+| Model Gap Fix  | [modelfix](https://modrinth.com/mod/modelfix) | Removes the annoying gap in Item Models!                                         |
 | IMBlockerFabric | [imblocker](https://modrinth.com/mod/imblocker)                               | fixes the typing bug exist in multi-byte characters in-game using Input Methods. |
 
 ### 🧰  Utilities
@@ -60,6 +65,7 @@ If you don't need OptiFine Shaders, please check their awesome shaderpacks!**
 | BetterF3                        | [betterF3](https://modrinth.com/mod/betterF3)                                                     | replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD.                                                   |
 | Borderless Mining               | [borderless-mining](https://modrinth.com/mod/borderless-mining)                                   | Changes Fullscreen to use a borderless window.                                                                                                 |
 | Draggable Resource Packs        | [draggable-resource-packs](https://www.curseforge.com/minecraft/mc-mods/draggable-resource-packs) | Makes resource packs draggable instead of needing to click buttons                                                                             |
+| Better Statistics Screen        | [better-stats](https://www.curseforge.com/minecraft/mc-mods/better-stats) | This Minecraft mod replaces the Vanilla statistics screen with an new and improved statistics screen that is easier to use and that has more helpful features.                                                                             |
 
 ### Libs
 
@@ -85,6 +91,7 @@ If you don't need OptiFine Shaders, please check their awesome shaderpacks!**
 | ✨[📦-Ⅲ-5] Custom Entity Models    | [cem](https://modrinth.com/mod/cem)                                           | Custom Entity Models suport on Fabric.                                                                                                                            |
 | ✨[📦-Ⅲ-6] Entity Texture Features | [entitytexturefeatures](https://modrinth.com/mod/entitytexturefeatures)       | Emissive, Random & Custom texture support for entities in resourcepacks.                                                                                          |
 | [📦-Ⅲ-4] CIT Resewn               | [cit-resewn](https://modrinth.com/mod/cit-resewn)                             | Re-implements MCPatcher's CIT.                                                                                                                                    |
+| Shimmer                           | [Shimmer](https://www.curseforge.com/minecraft/mc-mod/shimmer)                | A mod that integrates passion for rendering                                                                                                                       |
 | Colormatic                        | [colormatic](https://modrinth.com/mod/colormatic)                             | Enables resource packs to add and change block and biome colors.                                                                                                  |
 | ✨[📦-Ⅲ-1] Continuity              | [continuity](https://modrinth.com/mod/continuity)                             | A Fabric mod that allows for efficient connected textures.                                                                                                        |
 | [📦-Ⅲ-2] LambdaBetterGrass        | [lambdabettergrass](https://modrinth.com/mod/lambdabettergrass)               | A Minecraft mod which adds better grass and snow to the game.                                                                                                     |
