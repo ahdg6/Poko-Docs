@@ -1,6 +1,7 @@
 ---
 title: Mod List(1.18.2)
 tags: info
+sidebar: false
 category: info
 icon: plugin
 ---
