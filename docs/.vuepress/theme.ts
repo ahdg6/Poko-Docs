@@ -11,7 +11,7 @@ export default hopeTheme({
 
   repo: "The-Simples/Poko-Docs",
 
-  docsDir: "",
+  docsDir: "docs",
 
   pageInfo: ["Original", "Date", "Category", "Tag", "ReadingTime"],
 
